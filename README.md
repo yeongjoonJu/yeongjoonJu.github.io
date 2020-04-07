@@ -2,7 +2,7 @@
 
 **Yeong-Joon Ju**, Integrated MS-Ph.D program
 
-[Pattern Recognition & Machine Learning Lab.](pr.korea.ac.kr)
+[Pattern Recognition & Machine Learning Lab.](http://pr.korea.ac.kr)
 
 Dept. of Artificial Intelligence, Korea University
 
